@@ -1,0 +1,5 @@
+Estoy en camino para pasar la evaluacion 2 de redes avanzadas I. Mi nombre es Sergio Pizarro
+Estoy empezando a entender
+Git!
+Este texto se agregó
+originalmente en la rama de características
